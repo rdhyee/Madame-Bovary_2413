@@ -1,0 +1,44 @@
+_repo: Madame-Bovary_2413
+contributor:
+  translator:
+    agent_name: Aveling, Eleanor Marx
+    aliases:
+    - Marx-Aveling, Eleanor
+    - Marx, Eleanor
+    - Eveling, Eleonora Marks
+    - Marx, Tussy
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '902'
+    url: http://www.gutenberg.org/2009/agents/902
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Marx
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Physicians'' spouses -- Fiction'
+- '!lcsh:Middle class -- Fiction'
+- '!lcsh:Domestic fiction'
+- '!lcsh:Suicide victims -- Fiction'
+- '!lcsh:Married women -- Fiction'
+- '!lcsh:Adultery -- Fiction'
+- '!lcsh:France -- Fiction'
+- '!lcc:PQ'
+title: Madame Bovary
+url: http://www.gutenberg.org/ebooks/2413
