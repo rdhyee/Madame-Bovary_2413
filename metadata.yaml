@@ -3,10 +3,10 @@ contributor:
   translator:
     agent_name: Aveling, Eleanor Marx
     aliases:
-    - Marx-Aveling, Eleanor
-    - Marx, Eleanor
     - Eveling, Eleonora Marks
+    - Marx, Eleanor
     - Marx, Tussy
+    - Marx-Aveling, Eleanor
     birthdate: 1855
     deathdate: 1898
     gutenberg_agent_id: '902'
@@ -32,13 +32,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
+- '!lcsh:Suicide victims -- Fiction'
+- '!lcc:PQ'
+- '!lcsh:France -- Fiction'
+- '!lcsh:Adultery -- Fiction'
 - '!lcsh:Physicians'' spouses -- Fiction'
 - '!lcsh:Middle class -- Fiction'
-- '!lcsh:Domestic fiction'
-- '!lcsh:Suicide victims -- Fiction'
 - '!lcsh:Married women -- Fiction'
-- '!lcsh:Adultery -- Fiction'
-- '!lcsh:France -- Fiction'
-- '!lcc:PQ'
+- '!lcsh:Domestic fiction'
 title: Madame Bovary
 url: http://www.gutenberg.org/ebooks/2413
