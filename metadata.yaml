@@ -38,13 +38,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Suicide victims -- Fiction'
-- '!lcc:PQ'
-- '!lcsh:France -- Fiction'
-- '!lcsh:Adultery -- Fiction'
-- '!lcsh:Physicians'' spouses -- Fiction'
-- '!lcsh:Middle class -- Fiction'
-- '!lcsh:Married women -- Fiction'
-- '!lcsh:Domestic fiction'
+- '!lcsh: France -- Fiction'
+- '!lcsh: Middle class -- Fiction'
+- '!lcsh: Domestic fiction'
+- '!lcc: PQ'
+- '!lcsh: Suicide victims -- Fiction'
+- '!lcsh: Adultery -- Fiction'
+- '!lcsh: Married women -- Fiction'
+- '!lcsh: Physicians'' spouses -- Fiction'
 title: Madame Bovary
 url: http://www.gutenberg.org/ebooks/2413
